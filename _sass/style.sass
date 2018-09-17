@@ -1,24 +1,37 @@
 .navbar.navbar-primary
-  background: #72cc83
-  border-bottom: 1px solid #dadada
+  border-bottom: 10px solid #842075
   text-align: center
   padding: 0
+  background: #72cc83
+  .navbar-brand-container
+    display: inline-block
+    background: #842075
+    padding: 5px 15px
+    -webkit-transform: skew(-20deg)
+    -moz-transform: skew(-20deg)
+    -o-transform: skew(-20deg)
   .navbar-brand
-    color: #333
+    color: #fff
     font-weight: bold
     font-size: 1.8em
+    -webkit-transform: skew(20deg)
+    -moz-transform: skew(20deg)
+    -o-transform: skew(20deg)
   .logo
     height: 50px
 
 .navbar-secondary
   width: 100%
+  // background: #842075
   background: #efefef
-  border-bottom: 1px solid #dadada
   text-align: center
   font-size: 16px
+  font-weight: bold
+  color: #333
   // border-bottom: 5px solid #72cc83
 
 .header-image
+  margin-top: -50px
   width: 100%
   overflow: hidden
   img
@@ -28,12 +41,20 @@
   text-align: center
   background: #72cc83
 
+#main-content
+  color: #333
+  background: #72cc83
+  h1
+    padding-top: 15px
+    padding-bottom: 5px
+    border-bottom: 1px solid #333
+
 .contents
   ul, ol
     list-style: none
     padding-left: 0
   a
-    color: #777
+    color: #444
     font-size: 14px
   h6
     padding-bottom: 5px
@@ -42,3 +63,8 @@
 
 .card-deck
   background: #72cc83 !important
+
+.card
+  border: 0px !important
+  border-radius: 10px !important
+  overflow: hidden

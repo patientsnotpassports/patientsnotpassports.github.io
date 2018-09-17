@@ -1,13 +1,17 @@
+<nav class="navbar navbar-primary shadow">
+  <div class="navbar-brand-container mx-auto">
+    <a href="/" class="navbar-brand mx-auto shadow">
+      Patients
+      Not
+      Passports
+    </a>
+  </div>
+</nav>
+{% if page.url == '/' %}
 <div class="header-image">
   <img src="/img/header.png" />
 </div>
-<nav class="navbar navbar-primary shadow">
-  <a href="/" class="navbar-brand mx-auto shadow">
-    Patients
-    Not
-    Passports
-  </a>
-</nav>
+{%- endif -%}
 <div class="navbar-secondary p-2">
   A toolkit designed to support you in advocating for people facing charges for NHS care, and in taking action to end immigration checks and upfront charging in the NHS.
 </div>
