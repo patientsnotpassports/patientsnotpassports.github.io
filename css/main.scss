@@ -1,0 +1,38 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "blog";
+@import "layout";
+
+.nav a.active {
+  font-weight: bold;
+  color: #000;
+}
+
+.navbar-toggler {
+  float: none;
+  border: 0px;
+  width: 100%;
+  background-size: cover;
+}
+
+@media (min-width: 992px) {
+  #navbarCollapse {
+    display: block!important;
+    display: block!important;
+    -ms-flex-preferred-size: auto;
+    flex-basis: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  #navbarCollapse nav a {
+    width: 100%;
+    text-align: center;
+  }
+}
+
+.jumbotron {
+  border-radius: 0 !important;
+}
