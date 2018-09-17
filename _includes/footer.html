@@ -1,3 +1,21 @@
+<div class="contents container-fluid">
+  <ul>
+    {%- assign tier_1_pages = site.pages | where: "level", 1 | sort: "ordinal" -%}
+    {%- for p in tier_1_pages -%}
+    <li>
+      <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+      {{ p.category | inspect }}
+      <ul>
+      {%- assign tier_2_pages = site.pages | where: "parent", p.permalink | where: "level", 2 | sort: "ordinal" -%}
+      {%- for q in tier_2_pages -%}
+        <li><a href="{{ q.url | relative_url }}">{{ q.title }}</a></li>
+      {%- endfor -%}
+      </ul>
+    </li>
+    {%- endfor -%}
+  </ul>
+</div>
+
 <footer class="footer pt-3">
   <p>Developed by</p>
   <a class="footer-logo" href="http://www.docsnotcops.co.uk" target="_blank">
