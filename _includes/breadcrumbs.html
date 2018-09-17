@@ -1,4 +1,23 @@
 {% if page.url != '/' %}
-<div class="breadcrumbs">
-</div>
+{% assign crumbs =  page.permalink | split: "/" %}
+{% assign crumb_link = "" %}
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Home</a></li>
+  {% for c in crumbs %}
+
+    {% if forloop.first == false %}
+      {% assign crumb_link = crumb_link | append: '/' | append: c %}
+      {% assign crumb_page = site.pages | where: "permalink", crumb_link | first %}
+      {% if forloop.last == false %}
+      <li class="breadcrumb-item">
+      <a href="{{ crumb_page.url | relative_link }}">{{ crumb_page.title }}</a>
+      </li>
+      {% else %}
+      <li class="breadcrumb-item active">{{ crumb_page.title }}</li>
+      {% endif %}
+    {% endif %}
+  {% endfor %}
+  </ol>
+</nav>
 {%- endif -%}

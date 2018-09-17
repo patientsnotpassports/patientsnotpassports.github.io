@@ -4,10 +4,18 @@
     {%- for p in tier_1_pages -%}
     <div class="col-md">
       <h6><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h6>
-      <ul>
+      <ul class="category-list">
       {%- assign tier_2_pages = site.pages | where: "parent", p.permalink | where: "level", 2 | sort: "ordinal" -%}
       {%- for q in tier_2_pages -%}
-        <li><a href="{{ q.url | relative_url }}">{{ q.title }}</a></li>
+        <li>
+          <a href="{{ q.url | relative_url }}">{{ q.title }}</a>
+          {%- assign tier_3_pages = site.pages | where: "parent", q.permalink | where: "level", 3 | sort: "ordinal" -%}
+          <ul>
+          {%- for r in tier_3_pages -%}
+            <li><a href="{{ r.url | relative_url }}">{{ r.title }}</a>
+          {%- endfor -%}
+          </ul>
+        </li>
       {%- endfor -%}
       </ul>
     </div>
