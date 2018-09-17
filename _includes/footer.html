@@ -1,19 +1,18 @@
 <div class="contents container-fluid">
-  <ul>
+  <div class="row">
     {%- assign tier_1_pages = site.pages | where: "level", 1 | sort: "ordinal" -%}
     {%- for p in tier_1_pages -%}
-    <li>
-      <a href="{{ p.url | relative_url }}">{{ p.title }}</a>
-      {{ p.category | inspect }}
+    <div class="col-md">
+      <h6><a href="{{ p.url | relative_url }}">{{ p.title }}</a></h6>
       <ul>
       {%- assign tier_2_pages = site.pages | where: "parent", p.permalink | where: "level", 2 | sort: "ordinal" -%}
       {%- for q in tier_2_pages -%}
         <li><a href="{{ q.url | relative_url }}">{{ q.title }}</a></li>
       {%- endfor -%}
       </ul>
-    </li>
+    </div>
     {%- endfor -%}
-  </ul>
+    </div>
 </div>
 
 <footer class="footer pt-3">
