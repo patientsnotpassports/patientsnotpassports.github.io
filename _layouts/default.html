@@ -5,12 +5,14 @@
 
   <body>
 
+    <div class="header-body">
     {%- include header.html -%}
 
     <div id="main-content" class="container-fluid">
       {{ content }}
     </div>
 
+    </div>
     {%- include footer.html -%}
 
     {%- if jekyll.environment == 'production' and site.google_analytics -%}
