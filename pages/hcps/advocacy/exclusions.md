@@ -7,16 +7,16 @@ parent: /hcps/advocacy
 permalink: /hcps/advocacy/exclusions
 ---
 
-## Exclusions and exemptions from charging
+#### Exclusions and exemptions from charging
 
 This list of exemptions has been taken from Government Guidance on charging which can be found here and a simplified version on the NHS Choices site.
 
-### Where does charging occur?
+#### Where does charging occur?
 
  * Charging occurs in secondary care, including: hospitals and community services provided by both NHS and non-NHS NHS-funded providers.
  * Most primary care, including acessing a GP is still free for everyone. Treatment in A&E, urgent care centres, and walk in centres is also still free.
 
-### Who is exempt from charging
+#### Who is exempt from charging
 
  * Asylum seekers
  * Refugees
@@ -33,7 +33,7 @@ This list of exemptions has been taken from Government Guidance on charging whic
  * Those in receipt of compulsory treatment under a court order or detained under the Mental Health Act at the time of treatment
  * Overseas visitors granted leave to enter the UK outside immigration rules, and their child and/or companion authorised to travel with them, for whom the exemption is limited to treatment, the need for which arose during the visit, and cannot await their return home
 
-### What treatments are exempt from charging
+#### What treatments are exempt from charging
 
  * Family planning (excluding termination of pregnancy)
  * Diagnosis and treatment of specified infectious diseases

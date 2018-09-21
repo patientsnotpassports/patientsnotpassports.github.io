@@ -11,15 +11,15 @@ All healthcare workers (nurses, midwives, doctors, receptionists, etc.) have dut
 
 The Duty of Care can and should be used to challenge the duty to implement Charging Regulations within NHS Trusts.
 
-### Duty of care to the patient
+#### Duty of care to the patient
 
 All healthcare workers have a primary duty of care to all patients, including patients who are not directly under your responsibility.  Health professionals have a duty to do all that is reasonable to secure the best outcome through providing the highest quality care to the best of their abilities.
 
-### Duty to be up to date
+#### Duty to be up to date
 
 All healthcare workers have a duty to make sure that their knowledge and skills to optimise patient care and available treatments are up to date.
 
-### Duty of confidentiality
+#### Duty of confidentiality
 
 All healthcare workers have a duty to keep all patient information confidential, unless disclosed with the patient’s consent or for safeguarding purposes.
 
