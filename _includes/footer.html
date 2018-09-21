@@ -1,4 +1,4 @@
-<div class="contents container-fluid mt-5">
+<div class="contents container-fluid mt-3">
   <div class="row">
     {%- assign tier_1_pages = site.pages | where: "level", 1 | sort: "ordinal" -%}
     {%- for p in tier_1_pages -%}
@@ -10,7 +10,7 @@
         <li>
           <a href="{{ q.url | relative_url }}">{{ q.title }}</a>
           {%- assign tier_3_pages = site.pages | where: "parent", q.permalink | where: "level", 3 | sort: "ordinal" -%}
-          <ul>
+          <ul class="category-list-inner">
           {%- for r in tier_3_pages -%}
             <li><a href="{{ r.url | relative_url }}">{{ r.title }}</a>
           {%- endfor -%}

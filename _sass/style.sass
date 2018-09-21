@@ -45,13 +45,16 @@
   color: #333
   background: #72cc83
   h1
-    padding-top: 15px
+    padding-top: 5px
     padding-bottom: 5px
-    border-bottom: 1px solid #333
 
 .category-list
   padding-left: 0
   list-style: none
+
+.category-list-inner
+  padding-left: 20px
+  list-style-type: disc
 
 .contents
   a
@@ -70,8 +73,29 @@
   border-radius: 10px !important
   overflow: hidden
 
-.breadcrumb
+.breadcrumb-container
+  background: #efefef !important
   font-family: 'Open Sans'
+  margin: 0 -15px
+  padding: 0
+  ol
+    padding-bottom: 5px
+  li.breadcrumb-item
+    padding-bottom: .5rem
+    padding-right: .5rem
+    display: block !important
+    width: 100%
+    @media(min-width: 768px)
+      width: auto
+      display: inline-block !important
+
+  li::before
+    content: '/' !important
+    padding-right: .5rem
+    padding-left: 0 !important
+    color: #666 !important
+  a
+    color: #842075
 
 h2.guide-header
   color: #842075 !important
