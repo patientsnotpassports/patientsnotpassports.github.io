@@ -1,0 +1,14 @@
+---
+layout: page
+---
+
+{{ content }}
+
+{%- assign next_level = page.level | plus: 1 -%}
+{%- assign pages = site.pages | where: "parent", page.permalink | where: "level", next_level | sort: "ordinal" -%}
+
+<ol class="contents-page">
+{%- for p in pages -%}
+  <li><a href="{{ p.url | relative_url }}">{{ p.title }}</a>
+{%- endfor -%}
+</ol>
