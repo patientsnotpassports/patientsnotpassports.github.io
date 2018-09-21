@@ -11,7 +11,7 @@
     -moz-transform: skew(-20deg)
     -o-transform: skew(-20deg)
   .navbar-brand
-    color: #fff
+    color: #f0f0f0
     font-weight: bold
     font-size: 1.8em
     -webkit-transform: skew(20deg)
@@ -23,7 +23,7 @@
 .navbar-secondary
   width: 100%
   // background: #842075
-  background: #efefef
+  background: #f0f0f0
   text-align: center
   font-size: 16px
   font-weight: bold
@@ -44,9 +44,15 @@
 #main-content
   color: #333
   background: #72cc83
+  min-height: calc(100vh - 320px)
   h1
-    padding-top: 5px
     padding-bottom: 5px
+    border-bottom: 1px solid #666
+  h3
+    margin-bottom: 15px
+  h5 a
+    color: #333
+    text-decoration: underline
 
 .category-list
   padding-left: 0
@@ -57,6 +63,8 @@
   list-style-type: disc
 
 .contents
+  background: #f0f0f0
+  margin-top: 0
   a
     color: #444
     font-size: 14px
@@ -74,12 +82,14 @@
   overflow: hidden
 
 .breadcrumb-container
-  background: #efefef !important
+  border-top: 2px solid #842075
+  background: #f0f0f0 !important
   font-family: 'Open Sans'
   margin: 0 -15px
   padding: 0
   ol
     padding-bottom: 5px
+    background: #f0f0f0 !important
   li.breadcrumb-item
     padding-bottom: .5rem
     padding-right: .5rem
