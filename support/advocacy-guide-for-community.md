@@ -1,5 +1,5 @@
 ---
-title: Advocacy guide (for people in the community)
+title: Advocacy guide (for community members)
 layout: page
 ---
 

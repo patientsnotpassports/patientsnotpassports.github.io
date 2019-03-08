@@ -2,7 +2,7 @@
   {% capture dir %}/{{ include.category }}/{% endcapture %}
   {% for p in site.pages %}
     {% if p.name == 'index.md' and p.dir == dir %}
-      <h6>{{ p.title }}</h6>
+      <h6><a href="{{ p.url }}">{{ p.title }}</a></h6>
     {% endif %}
   {% endfor %}
   <ul class="footer-nav-list">

@@ -68,21 +68,20 @@ h6.card-title {
 }
 
 .main-content {
-  min-height: calc(100vh - 230px);
+  min-height: calc(100vh - 80px);
 }
 
 .footer-nav {
   background: #f5f8fa;
   min-height: 230px;
   h6 { font-weight: 600; }
-  color: #536890;
+  a { color: #536890; }
 }
 
 .footer-nav-list {
   list-style: none;
   padding-left: 0;
-  a { color: #536890; }
-  li { line-height: 2em; }
+  li { padding-top: 7.5px; }
 }
 
 .footer-logos {
@@ -96,6 +95,12 @@ h6.card-title {
     max-width: 100%;
     max-height: 100%;
   }
+}
+
+.footer-contact {
+  text-align: center;
+  a { color: #fff; }
+  margin-bottom: 30px;
 }
 
 @media(min-width: 768px) {
@@ -136,4 +141,12 @@ h6.card-title {
     margin-bottom: 7.5px;
     ul { margin-top: 7.5px; }
   }
+  a {
+    color: #536890; 
+  }
+}
+
+.blockquote {
+  border-left: 15px solid #f5f8fa;
+  padding-left: 15px;
 }

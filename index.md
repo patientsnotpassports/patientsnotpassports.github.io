@@ -4,7 +4,7 @@ layout: home
 
 <div class="card-deck">
   {% include card.html title="Step by step advocacy guide" subtitle="For health workers"    href="/support/advocacy-guide-for-healthcare-workers" image="/img/healthcare-workers.jpg" %}
-  {% include card.html title="Step by step advocacy guide" subtitle="For people in the community" href="/support/advocacy-guide-for-community" image="/img/community.png" %}
+  {% include card.html title="Step by step advocacy guide" subtitle="For community members" href="/support/advocacy-guide-for-community" image="/img/community.png" %}
 </div>
 <div class="card-deck">
   {% include card.html title="Learn"    subtitle="Learn about immigration checks and charging in the NHS" href="/learn"    image="/img/learn.jpg" %}
