@@ -4,7 +4,7 @@ layout: page
 level: 2
 ordinal: 4
 parent: /learn
-permalink: /learn/key-arguments
+permalink: /learn/hostile-environment
 ---
 
 > "The hostile environment is a sprawling web of immigration controls embedded in the heart of our public services and communities. The Government requires employers, landlords, private sector workers, NHS staff and other public servants to check a person’s immigration status before they can offer them a job, housing, healthcare or other support. Landlords and employers can face fines and even criminal sanctions if they fail to do so.
