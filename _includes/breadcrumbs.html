@@ -1,0 +1,19 @@
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a href="/">Home</a></li>
+    {% if page.name != "index.md" %}
+    {% for p in site.pages %}
+    {% if p.dir == page.dir and p.name == "index.md" %}
+    <li class="breadcrumb-item" aria-current="page">
+      <a href="{{ p.url }}">
+        {{ p.title }}
+      </a>
+    </li>
+    {% endif %}
+    {% endfor %}
+    {% endif %}
+    <li class="breadcrumb-item active" aria-current="page">
+      {{ page.title }}
+    </li>
+  </ol>
+</nav>

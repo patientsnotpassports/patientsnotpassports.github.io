@@ -74,14 +74,45 @@ h6.card-title {
 .footer-nav {
   background: #f5f8fa;
   min-height: 230px;
-  // h6 { color: #888; }
+  h6 { font-weight: 600; }
   color: #536890;
 }
 
 .footer-nav-list {
   list-style: none;
   padding-left: 0;
-  // a { color: #888; }
   a { color: #536890; }
   li { line-height: 2em; }
+}
+
+.footer-logos {
+  background-color: #72cc83;
+  color: #fff;
+}
+
+.footer-logo {
+  text-align: center;
+  img {
+    max-width: 100%;
+    max-height: 100%;
+  }
+}
+
+@media(min-width: 768px) {
+  .footer-logo-left { text-align: right; }
+  .footer-logo-right { text-align: left; }
+}
+
+.breadcrumb {
+  background: #f5f8fa;
+  .breadcrumb-item {
+    max-width: calc(50% - 25px);
+    display: inline-block;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    a {
+      color: #536890; 
+    }
+  }
 }
