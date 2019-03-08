@@ -1,0 +1,87 @@
+---
+---
+
+html, body {
+  color: #333;
+}
+
+.btn-primary {
+  background-color: #72cc83;
+  border-color: darken(#72cc83, 5);
+  &:hover, &:active, &:focus {
+    background-color: darken(#72cc83, 10);
+    border-color: darken(#72cc83, 15);
+  }
+}
+
+.main-nav {
+  margin-bottom: 15px;
+  border-bottom: 10px solid #842075;
+  background: #f5f8fa;
+  text-align: center;
+}
+
+.nav-link {
+  color: #842075;
+  &:hover {
+    color: darken(#842075, 10);
+  }
+}
+
+.cover-title {
+  text-align: center;
+}
+
+.cover-title img {
+  max-height: 300px;
+  max-width: calc(100% - 30px);
+  margin: 15px;
+  margin-bottom: 30px;
+}
+
+.main-nav .navbar-brand {
+  max-width: calc(100% - 30px);
+  margin: 15px 15px 0 15px;
+}
+
+.cover-description {
+  font-family: Merriweather, serif;
+  font-size: 1em;
+  @media(min-width: 577px) {
+    font-size: 1.5em;
+  }
+  padding-bottom: 30px;
+}
+
+.card-deck {
+  margin-bottom: 30px;
+}
+
+@media(max-width: 576px) {
+  .card-deck {
+    margin-bottom: 0;
+  }
+}
+
+h6.card-title {
+  color: #444;
+}
+
+.main-content {
+  min-height: calc(100vh - 230px);
+}
+
+.footer-nav {
+  background: #f5f8fa;
+  min-height: 230px;
+  // h6 { color: #888; }
+  color: #536890;
+}
+
+.footer-nav-list {
+  list-style: none;
+  padding-left: 0;
+  // a { color: #888; }
+  a { color: #536890; }
+  li { line-height: 2em; }
+}

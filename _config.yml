@@ -1,0 +1,30 @@
+title: Patients Not Passports
+email: office@medact.org
+description: >- # this means to ignore newlines until "baseurl:"
+  A toolkit designed to support you in advocating for people facing charges
+  for NHS care, and in taking action to end immigration checks and upfront charging in the NHS.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: DocsNotCops
+github_username:  patientsnotpassports
+google_analytics:
+
+# Build settings
+markdown: kramdown
+defaults:
+  - scope:
+      path: "img"
+    values:
+      image: true
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
