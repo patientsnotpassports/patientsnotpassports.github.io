@@ -1,0 +1,15 @@
+<div class="col-md">
+  {% capture dir %}/{{ include.category }}/{% endcapture %}
+  {% for p in site.pages %}
+    {% if p.name == 'index.md' and p.dir == dir %}
+      <h6>{{ p.title }}</h6>
+    {% endif %}
+  {% endfor %}
+  <ul class="footer-nav-list">
+    {% for p in site.pages %}
+      {% if p.name != 'index.md' and p.dir == dir %}
+      <li><a href="{{ p.url }}">{{ p.title }}</a></li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>

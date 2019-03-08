@@ -1,40 +1,14 @@
 <div class="footer-nav">
   <div class="container pt-3">
     <div class="row">
-      <div class="col-md">
-        <h6>Support someone being charged for care</h6>
-        <ul class="footer-nav-list">
-          <li><a href="/">Advocacy guide (for healthcare workers)</a></li>
-          <li><a href="/">Advocacy guide (for community workers)</a></li>
-          <li><a href="/">List of exclusions</a></li>
-          <li><a href="/">Your duty as a healthcare worker</a></li>
-          <li><a href="/">Signposting guide</a></li>
-        </ul>
-      </div>
-      <div class="col-md">
-        <h6>Learn about charging and the hostile environment</h6>
-        <ul class="footer-nav-list">
-          <li><a href="/">Introduction to the Hostile Environment</a></li>
-          <li><a href="/">Immigration checks and charging</a></li>
-          <li><a href="/">How does charging work?</a></li>
-          <li><a href="/">Key arguments</a></li>
-        </ul>
-      </div>
-      <div class="col-md">
-        <h6>Start a campaign where you are</h6>
-        <ul class="footer-nav-list">
-          <li><a href="/">Start or join a campaign where you are</a></li>
-          <li><a href="/">Principles of campgaining</a></li>
-          <li><a href="/">Build your local campaign</a></li>
-          <li><a href="/">Organise a workshop</a></li>
-          <li><a href="/">Take action</a></li>
-        </ul>
-      </div>
+      {% include category-listing.html category='support' %}
+      {% include category-listing.html category='learn' %}
+      {% include category-listing.html category='campaign' %}
     </div>
   </div>
 </div>
 
-<div class="footer-logos pt-2 pb-3">
+<div class="footer-logos pt-2 pb-5">
   <div class="container">
     <div class="row">
       <div class="text-center col-md-12 mt-3 mb-4">

@@ -1,5 +1,5 @@
 ---
-title: Learn
+title: Learn about charging and the Hostile Environment
 layout: page
 ---
 

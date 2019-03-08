@@ -2,39 +2,12 @@
 layout: default
 ---
 
-<nav class="main-nav">
-  <a class="navbar-brand" href="/">
-    <img src="/img/banner.gif" alt="Patients not passports" role="title" style="height: 100px;" />
-  </a>
-  <div class="navbar-nav navbar-expand">
-    <ul class="navbar-nav mb-2" style="width: 100%;">
-      <li class="nav-item" style="width: 33%; text-align: center;">
-        <a class="nav-link" href="/advocate">
-          Support
-          <span class="d-none d-sm-inline-block"> a patient</span>
-          <span class="d-none d-lg-inline-block"> being charged for care</span>
-        </a>
-      </li>
-      <li class="nav-item" style="width: 33%; text-align: center;">
-        <a class="nav-link" href="/learn">
-          Learn
-          <span class="d-none d-sm-inline-block"> about charging</span>
-          <span class="d-none d-lg-inline-block"> and the "Hostile Environment"</span>
-        </a>
-      </li>
-      <li class="nav-item" style="width: 33%; text-align: center;">
-        <a class="nav-link" href="/campaign">
-          Campaign
-          <span class="d-none d-sm-inline-block"> to end charging</span>
-          <span class="d-none d-lg-inline-block"> in your local area</span>
-        </a>
-      </li>
-    </ul>
-  </div>
-</nav>
+{% include navbar.html %}
 
 <div class="container pt-3 pb-4">
-  <h1>{{ page.title }}</h1>
   {% include breadcrumbs.html %}
-  {{ content }}
+  <article class="site-page">
+    <h1 class="mt-4 mb-4">{{ page.title }}</h1>
+    {{ content }}
+  </article>
 </div>
