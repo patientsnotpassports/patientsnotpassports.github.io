@@ -1,15 +1,11 @@
+{% capture dir %}/{{ include.category }}/{% endcapture %}
+{% assign index = site.pages | where: "dir", dir | where: "name", "index.md" | first %}
+{% assign pages = site.pages | where: "dir", dir | where_exp: "item", "item.name != 'index.md'" | sort: "ordinal" %}
 <div class="col-md">
-  {% capture dir %}/{{ include.category }}/{% endcapture %}
-  {% for p in site.pages %}
-    {% if p.name == 'index.md' and p.dir == dir %}
-      <h6><a href="{{ p.url }}">{{ p.title }}</a></h6>
-    {% endif %}
-  {% endfor %}
+  <h6><a href="{{ index.url }}">{{ index.title }}</a></h6>
   <ul class="footer-nav-list">
-    {% for p in site.pages %}
-      {% if p.name != 'index.md' and p.dir == dir %}
+    {% for p in pages %}
       <li><a href="{{ p.url }}">{{ p.title }}</a></li>
-      {% endif %}
     {% endfor %}
   </ul>
 </div>

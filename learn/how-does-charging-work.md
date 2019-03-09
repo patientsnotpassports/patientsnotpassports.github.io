@@ -1,6 +1,7 @@
 ---
 title: How does charging work?
 layout: page
+ordinal: 2
 ---
 
 Trusts are able to charge up to 150% of the cost of treatment at their discretion.

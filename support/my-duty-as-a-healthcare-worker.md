@@ -1,6 +1,7 @@
 ---
 title: My duty as a healthcare worker
 layout: page
+ordinal: 5
 ---
 
 All healthcare workers (nurses, midwives, doctors, receptionists, etc.) have duties and obligations that they must adhere to. The GMC notes that “patients must be able to trust doctors with their lives and health. To justify that trust you must show respect for human life and make sure your practice meets the standards expected of you”. Most importantly, the care of your patient should be your first concern. We believe that the Charging Regulations compromise this.

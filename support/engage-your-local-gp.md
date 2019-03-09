@@ -1,6 +1,7 @@
 ---
 title: Engage your local GP
 layout: page
+ordinal: 6
 ---
 
 GP services remain free for all to use, however many people still struggle to access their GP because they are incorrectly asked to provide proof of address or immigration status. A little support can make a big difference in helping someone access this vital part of the NHS, and can even lead to changes in policy at the GP surgery.

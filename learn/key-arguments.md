@@ -1,6 +1,7 @@
 ---
 title: Key Arguments
 layout: page
+ordinal: 3
 ---
 
 ### Healthcare workers aren’t border guards and healthcare shouldn’t be a hostile environment

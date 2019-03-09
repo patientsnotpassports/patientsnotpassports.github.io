@@ -1,6 +1,7 @@
 ---
 title: Advocacy guide (for healthcare workers)
 layout: page
+ordinal: 1
 ---
 
 ### 1. Challenge

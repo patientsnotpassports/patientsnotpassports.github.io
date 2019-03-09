@@ -3,7 +3,7 @@
 
 html, body {
   color: #333;
-  a { color: #536890; text-decoration: underline; }
+  a { color: #536890; }
 }
 
 .btn-primary {
@@ -150,6 +150,7 @@ h6.card-title {
   }
   a {
     color: #536890; 
+    text-decoration: underline; 
   }
 }
 

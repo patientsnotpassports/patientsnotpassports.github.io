@@ -1,9 +1,10 @@
 ---
 title: What are the new rules on immigration checks and upfront charging?
 layout: page
+ordinal: 1
 ---
 
-The Immigration Act 2014, which came into force in 2015, saw the expansion of pre-existing charging regulations for ‘overseas visitors’ using the NHS. This included broadening the group of people who are chargeable, introducing an ‘immigration health surcharge’ for those seeking visas to enter the UK, and up to 150% charge for treatment in secondary care at the discretion of NHS Trusts.
+The [Immigration Act 2014](http://www.legislation.gov.uk/ukpga/2014/22/pdfs/ukpga_20140022_en.pdf){:target="_blank"}, which came into force in 2015, saw the expansion of pre-existing charging regulations for ‘overseas visitors’ using the NHS. This included broadening the group of people who are chargeable, introducing an ‘immigration health surcharge’ for those seeking visas to enter the UK, and up to 150% charge for treatment in secondary care at the discretion of NHS Trusts.
 
 In October 2017, these regulations were once again expanded. Now, charging has been introduced into some community services, NHS Trusts have a duty to check the eligibility of all patients before providing treatment in secondary care, and, for certain treatments, patients may be asked to pay upfront or risk being turned away.
 

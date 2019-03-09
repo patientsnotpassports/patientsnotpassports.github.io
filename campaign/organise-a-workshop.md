@@ -1,6 +1,7 @@
 ---
 title: Organise a workshop or meeting
 layout: page
+ordinal: 4
 ---
 
 One surprising feature of NHS charging is that many people, including migrant communities and healthcare workers, do not know about it. You can help by raising awareness in your community, trade union, local party branch or amongst doctors, nurses and hospital staff where you live. You can invite a speaker from Docs Not Cops or download our presentation and deliver it yourself.

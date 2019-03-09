@@ -1,6 +1,7 @@
 ---
 title: Take action
 layout: page
+ordinal: 5
 ---
 
 The most effective way of campaigning against upfront charging is to build your own campaign locally. Alongside this there are a number of discrete actions you can also take:

@@ -1,6 +1,7 @@
 ---
 title: Start or join a campaign where you are
 layout: page
+ordinal: 2
 ---
 
 ### Join Medact

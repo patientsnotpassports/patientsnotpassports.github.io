@@ -1,6 +1,7 @@
 ---
 title: Advocacy guide (for community members)
 layout: page
+ordinal: 2
 ---
 
 ### 1. Check

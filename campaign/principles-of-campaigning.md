@@ -1,6 +1,7 @@
 ---
 title: Principles of campaigning
 layout: page
+ordinal: 1
 ---
 
 To be successful, it is important that you frame and build your campaign so that **everybody in the community can be included**, prioritising collective language based on shared concerns and principles. The NHS is the main institution in British public life, and its values of a health service free for everybody has a broad resonance amongst most people living in the UK. It is important to invoke and reassert these principles in your campaign.

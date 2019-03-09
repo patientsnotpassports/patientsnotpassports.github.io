@@ -1,6 +1,7 @@
 ---
 title: Resources
 layout: page
+ordinal: 7
 ---
 
 Coming soon...

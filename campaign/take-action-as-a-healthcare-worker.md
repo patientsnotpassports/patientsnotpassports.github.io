@@ -1,6 +1,7 @@
 ---
 title: Take action as a healthcare worker
 layout: page
+ordinal: 6
 ---
 
 The introduction of immigration checks and upfront charging threatens the founding principles of the NHS, as healthcare workers we have a responsibility to ensure that it remains a safe, non-judgemental, and universally accessible space for anyone that needs to use it.

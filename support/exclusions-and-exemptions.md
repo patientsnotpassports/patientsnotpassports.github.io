@@ -1,6 +1,7 @@
 ---
 title: Exclusions and exemptions from charging
 layout: page
+ordinal: 3
 ---
 
 This list of exemptions has been taken from Government Guidance on charging which can be found here and a simplified version on the NHS Choices site.
