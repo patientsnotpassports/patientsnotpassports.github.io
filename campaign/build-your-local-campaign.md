@@ -4,7 +4,7 @@ layout: page
 ordinal: 3
 ---
 
-It's important that your campaign focuses on structural change, whether that is running local campaigns or encouraging healthcare bodies to **support migrants’ access to healthcare** and/or to **publically state their opposition to the Government’s policies**.
+It's important that your campaign focuses on structural change, whether that is running local campaigns or encouraging healthcare bodies to **support migrants' access to healthcare** and/or to **publically state their opposition to the Government's policies**.
 
 **As a general rule, when organising campaigns it can be useful to follow the following outline of steps:**
 

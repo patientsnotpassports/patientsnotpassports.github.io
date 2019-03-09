@@ -36,11 +36,11 @@ Medical Justice offers independent medical advice and assessments to immigration
 
 ##### [Medact](https://www.medact.org/){:target="_blank"}
 
-Medact’s mission is to support health professionals from all disciplines to work together towards a world in which everyone can truly achieve and exercise their human right to health.
+Medact's mission is to support health professionals from all disciplines to work together towards a world in which everyone can truly achieve and exercise their human right to health.
 
 ##### [Docs Not Cops](http://www.docsnotcops.co.uk/){:target="_blank"}
 
-Docs Not Cops is a group of NHS staff and patients that work to combat racism in the NHS. They believe no one should be afraid to access the healthcare they need, either because they can’t pay or might be punished, and that NHS workers should not be forced to police the people they treat. There are groups in Birmingham, Brighton, Glasgow, Wales, and London. If you want to join a group, or start one where you are, then email DocsNotCops [at] gmail [dot] com.
+Docs Not Cops is a group of NHS staff and patients that work to combat racism in the NHS. They believe no one should be afraid to access the healthcare they need, either because they can't pay or might be punished, and that NHS workers should not be forced to police the people they treat. There are groups in Birmingham, Brighton, Glasgow, Wales, and London. If you want to join a group, or start one where you are, then email DocsNotCops [at] gmail [dot] com.
 
 ##### [Migrants Organise](https://www.migrantsorganise.org/){:target="_blank"}
 

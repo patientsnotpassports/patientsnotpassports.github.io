@@ -10,7 +10,7 @@ Join Medact as a member and get involved in their work on healthcare charging. T
 
 ### Get involved in Docs Not Cops
 
-Docs Not Cops is a group of NHS staff and patients that work to combat racism in the NHS. They believe no one should be afraid to access the healthcare they need, either because they can’t pay or might be punished, and that NHS workers should not be forced to police the people they treat. There are groups in Birmingham, Brighton, Glasgow, Wales, and London. If you want to join a group, or start one where you are, then email DocsNotCops.
+Docs Not Cops is a group of NHS staff and patients that work to combat racism in the NHS. They believe no one should be afraid to access the healthcare they need, either because they can't pay or might be punished, and that NHS workers should not be forced to police the people they treat. There are groups in Birmingham, Brighton, Glasgow, Wales, and London. If you want to join a group, or start one where you are, then email DocsNotCops.
 
 ### Start your own campaign
 

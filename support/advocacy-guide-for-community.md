@@ -18,7 +18,7 @@ It is important for you to be persistent and advocate for your members properly 
 
 Many people receive threatening letters and even visits from debt collectors, harassing them for payment for NHS care. Make sure your members are supported to contact debt collectors directly and are able to protect themselves from by recording instances of harassment.
 
-If you are disputing a charge with an NHS Trust you can contact the debt collector and request that they place an individual’s account on hold. This can at least give your member temporary respite if they are being contacted on a regular basis. For more information about debt and debt collectors visit the Step Change Website.
+If you are disputing a charge with an NHS Trust you can contact the debt collector and request that they place an individual's account on hold. This can at least give your member temporary respite if they are being contacted on a regular basis. For more information about debt and debt collectors visit the Step Change Website.
 
 For more ideas about how to challenge such issues collectively, look at the direct action casework section below.
 
@@ -36,10 +36,10 @@ First, sit down with your member and work on an income and expenditure sheet to 
 
 If there is no way to resolve an outstanding payment, or your member is denied treatment they urgently need, then you may wish to raise their case either through direct action casework or as part of a public campaign to pressure their NHS Trust to provide them with care.
 
-According to the London Coalition Against Poverty, direct action casework, or ‘direct action advocacy’, is “about using direct action to pressure an institution to accept the demands of an individual, family, or small group” by organising small committees or the wider community to accompany an individual seeking to access the service they need. For information and ideas on how you can advocate for your member in this way, visit the [London Coalition Against Poverty website](http://www.lcap.org.uk/?page_id=55){:target="_blank"}.
+According to the London Coalition Against Poverty, direct action casework, or 'direct action advocacy', is “about using direct action to pressure an institution to accept the demands of an individual, family, or small group” by organising small committees or the wider community to accompany an individual seeking to access the service they need. For information and ideas on how you can advocate for your member in this way, visit the [London Coalition Against Poverty website](http://www.lcap.org.uk/?page_id=55){:target="_blank"}.
 
 ##### Start a campaign
 
-Alternatively, you might want to raise your member’s case as part of a campaign that brings their experience to public attention. This can be centred on a media story that discusses their case, a letter writing campaign or a meeting with a coalition of community organisations and your NHS Trust to argue for free access for your members. Any action must be taken with the expressed consent of the person affected.
+Alternatively, you might want to raise your member's case as part of a campaign that brings their experience to public attention. This can be centred on a media story that discusses their case, a letter writing campaign or a meeting with a coalition of community organisations and your NHS Trust to argue for free access for your members. Any action must be taken with the expressed consent of the person affected.
 
 Docs Not Cops can support you to design and implement your campaign, pass on useful materials and provide advice on the lines of argument you may wish to use. Please [contact us](#contact-details) for further support.

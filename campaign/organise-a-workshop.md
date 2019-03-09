@@ -9,7 +9,7 @@ One surprising feature of NHS charging is that many people, including migrant co
 Workshops can have the objectives of:
 
 Helping your members **know their rights**
- * **Engage and listen to the experiences** of other migrant community organisations or groups affected by the policies. It is important to reach out to and meet with your local church or mosque, migrant community or residents’ associations and ensure there is space in your workshop for them to share the experience of their community members. This listening is important to establish a shared understanding of what the problem and how it impacts the community.
+ * **Engage and listen to the experiences** of other migrant community organisations or groups affected by the policies. It is important to reach out to and meet with your local church or mosque, migrant community or residents' associations and ensure there is space in your workshop for them to share the experience of their community members. This listening is important to establish a shared understanding of what the problem and how it impacts the community.
  * **Raising awareness in the community** about the impact of the hostile environment policies
  * **Supporting NHS staff** in ensuring they help people access the care they need
  * Recruiting people to understand how they can **collectively campaign** against charging in the NHS

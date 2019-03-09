@@ -18,6 +18,6 @@ All healthcare workers have a duty to make sure that their knowledge and skills 
 
 ### Duty of confidentiality
 
-All healthcare workers have a duty to keep all patient information confidential, unless disclosed with the patient’s consent or for safeguarding purposes.
+All healthcare workers have a duty to keep all patient information confidential, unless disclosed with the patient's consent or for safeguarding purposes.
 
 The Government has shown that it is willing to disregard or undermine this duty through data-sharing agreements. However, the duty of care to patients is the primary priority for healthcare workers, and this sharing of patient information for these purposes clearly compromises this. Common Law Duty of Confidentiality clearly notes that “a disclosure in the public interest [...] is not a decision to be made lightly. Solid justification is required before individual rights are set aside and specialist or legal advice should be sought before the information is disclosed.”
