@@ -17,4 +17,4 @@ ordinal: 4
 
  
 
-To read about the full extent of the Hostile Environment have a look at Liberty's "Guide to the Hostile Environment"
+To read about the full extent of the Hostile Environment have a look at Liberty's "[Guide to the Hostile Environment](https://www.libertyhumanrights.org.uk/sites/default/files/HE%20web.pdf){:target="_blank"}".
