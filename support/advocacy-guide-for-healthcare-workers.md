@@ -5,18 +5,18 @@ layout: page
 
 ### 1. Challenge
 
-##### Challenge any member of staff you see asking a patient for ID.
+##### Challenge any member of staff you see asking a patient for ID
 
 Find out why they are asking and if it’s necessary for treatment.
 
-##### Challenge decisions by Overseas Visitor Managers (OVMs) or other healthcare professionals to charge patients.
+##### Challenge decisions by Overseas Visitor Managers (OVMs) or other healthcare professionals to charge patients
 
 Is the treatment urgent or immediately necessary?
 
 
 ### 2. Check
 
-##### Does the patient meet any of the charging exemptions?
+##### Does the patient meet any of the [charging exemptions](/support/exclusions-and-exemptions.html)?
 
 ##### Is this treatment urgent or immediately necessary?
 
@@ -26,17 +26,17 @@ For example, you could question how a treatment like renal dialysis can ever be 
 
 ##### Inform the patient about the charging regulations
 
-You can learn about them here
+You can [learn about them here](/learn/).
 
 ##### Offer support - give Health Rights Card
 
 For patients who seem as though they may disengage with healthcare providers as a result of charging regulations, encourage them that their health is important and empower them by providing them with information in the form of multilingual health rights cards which you can find on our website.
 
-##### Signpost to the right service for support
+##### [Signpost to the right service for support](/support/signposting-guide.html)
 
 ### 4. Communicate
 
-##### Talk to your colleagues
+##### [Talk to your colleagues](/campaign/take-action-as-a-healthcare-worker.html)
 
 Most people don’t know about ID checks and charging yet. There are lots of ways you can help raise awareness, just follow the link above.
 
