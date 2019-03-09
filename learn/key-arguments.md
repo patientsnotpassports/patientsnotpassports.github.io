@@ -1,5 +1,5 @@
 ---
-title: Key Arguments
+title: Key arguments
 layout: page
 ordinal: 3
 ---
@@ -15,7 +15,7 @@ ordinal: 3
 
  * **Access to healthcare is a human right enshrined in the UN Universal Declaration of Human Rights.**
  * **Charging deters people from seeking care or attending screening.** This has already been [documented amongst migrants living with HIV,](https://academic.oup.com/jpubhealth/article/38/2/384/1753511){:target="_blank"} despite the fact that HIV treatment is exempt from charging.
- * Those deterred from seeking treatment, particularly those who have recently migrated, already face [barriers to seeking treatment](https://www.doctorsoftheworld.org.uk/Handlers/Download.ashx?IDMF=d0fc6da6-8832-4be1-b50b-a93db8ab58d8){:target="_blank"}, such as a lack of knowledge around entitlements to healthcare, language barriers and fear of having information shared with the Home Office. Financial barriers and complications compound this.
+ * Those deterred from seeking treatment, particularly those who have recently migrated, already face [barriers to seeking treatment](https://www.equalityhumanrights.com/en/publication-download/lived-experiences-access-healthcare-people-seeking-and-refused-asylum){:target="_blank"}, such as a lack of knowledge around entitlements to healthcare, language barriers and fear of having information shared with the Home Office. Financial barriers and complications compound this.
  * [Research by Doctors of the World](https://www.doctorsoftheworld.org.uk/Handlers/Download.ashx?IDMF=f239ee99-7695-47e6-9273-05cc4486f6c9){:target="_blank"} shows that 2 in 3 pregnant women who attend their clinic have not had an antenatal appointment by the recommended 10 weeks, and 1 in 4 haven't been seen at all by 18 weeks. Considering BAME women face significantly higher rates of maternal and infant mortality in the UK, placing further barriers to accessing antenatal care such as fear of being charged risks the health of pregnant women.
 
 ### Economic
