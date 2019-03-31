@@ -19,11 +19,11 @@ For now just email <a href="mailto:jamesskinner@medact.org">jamesskinner@medact.
 * Medact Briefing on charging 
 * Union Motion 
 
-### Other Useful Tooklits 
+### Other useful toolkits 
 
-* kP registration - Safer Surgeries 
+* GP registration - Safer Surgeries 
 * For people facing charging - JCWI toolkit 
 
-### Posters, Flyers, & Leaflets  
+### Posters, Flyers & Leaflets  
 
 Please contact <a href="mailto:jamesskinner@medact.org">jamesskinner@medact.org</a> to find out material will best suit your needs.
