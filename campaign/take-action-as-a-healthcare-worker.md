@@ -36,7 +36,7 @@ Present a case specific to your department at audit, clinical governance or morb
 
 If you'd like support with something specific then [contact us](#contact-details).
 
-### Raise the issue with your Union
+### Raise the issue with your union
 
 Unions are a powerful voice in the workplace and we should encourage them to speak out on the things that effect how we work.
 
