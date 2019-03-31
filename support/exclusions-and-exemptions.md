@@ -4,12 +4,12 @@ layout: page
 ordinal: 3
 ---
 
-This list of exemptions has been taken from [Government Guidance on charging](https://www.gov.uk/government/collections/nhs-visitor-and-migrant-cost-recovery-programme) and a simplified version on [NHS Choices](https://www.nhs.uk/using-the-nhs/nhs-services/visiting-or-moving-to-england/visitors-who-do-not-need-pay-for-nhs-treatment/).
+This list of exemptions has been taken from [Government guidance on charging](https://www.gov.uk/government/collections/nhs-visitor-and-migrant-cost-recovery-programme) and a simplified version on [NHS Choices](https://www.nhs.uk/using-the-nhs/nhs-services/visiting-or-moving-to-england/visitors-who-do-not-need-pay-for-nhs-treatment/).
 
 ### Where does charging occur?
 
  * Charging occurs in secondary care, including: hospitals and community services provided by both NHS and non-NHS NHS-funded providers.
- * Most primary care, including acessing a GP is still free for everyone. Treatment in A&E, urgent care centres, and walk in centres is also still free.
+ * Most primary care, including accessing a GP, is still free for everyone. Treatment in A&E, urgent care centres, and walk-in centres is also still free.
 
 ### Who is exempt from charging?
 
