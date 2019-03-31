@@ -39,11 +39,11 @@ For patients who seem as though they may disengage with healthcare providers as 
 
 ##### [Talk to your colleagues](/campaign/take-action-as-a-healthcare-worker.html)
 
-Most people don't know about ID checks and charging yet. There are lots of ways you can help raise awareness, just follow the link above.
+Most people don't know about ID checks and charging yet. There are lots of ways you can [help raise awareness](/campaign/take-action-as-a-healthcare-worker.html).
 
 ##### Make formal complaints and record harm
 
-When you think harm or discrimination might have occurred or there was potential for it to occur. This could be as a result of being asked to pay upfront for treatment; being told that they will be billed or receiving a bill retrospectively; or, fear of having information shared with the Home Office for immigration enforcement.
+When you think harm or discrimination might have occurred or there was potential for it to occur, formally record this. This could be as a result of being asked to pay upfront for treatment; being told that they will be billed or receiving a bill retrospectively; or, fear of having information shared with the Home Office for immigration enforcement.
 
 Document instances when patients have been deterred from accessing care. Additionally, you can submit incident reports using your trust's formal system (e.g. Datix) when you observe situations where patients are at risk of harm or discrimination. This can include “near miss” incidents, for example if care is delayed but no actual harm occurred, or if a patient discloses fear about the impact of the regulations on them, even when in reality they are exempt.
 
