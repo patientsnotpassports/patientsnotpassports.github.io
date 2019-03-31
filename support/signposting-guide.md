@@ -16,7 +16,7 @@ Support people who have been excluded from, or are struggling to access healthca
 
 Provide advice, support, and a welcome meeting place for vulnerable migrants and refugees in London.
 
-##### [ASRIT](http://asirt.org.uk/){:target="_blank"} (Asylum Support and Immigration Resource Team)
+##### [ASIRT](http://asirt.org.uk/){:target="_blank"} (Asylum Support and Immigration Resource Team)
 
 A not-for-profit advocacy organisation which provides legal support and representation to asylum seekers and other undocumented migrants in the West Midlands.
 
@@ -52,4 +52,4 @@ Joint Council for the Welfare of Immigrants (JCWI) is an independent national ch
 
 ##### [Bristol Care Workers Network](https://bristolcareworkersnetwork.org/){:target="_blank"}
 
-A group of healthcare and social care workers that fight for better rights, pay, and terms for all. They also run a campaign resisting borders in the NHS.
+A group of healthcare and social care workers that fight for better rights, pay and terms for all. They also run a campaign resisting borders in the NHS.
