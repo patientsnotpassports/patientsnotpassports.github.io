@@ -4,11 +4,11 @@ layout: page
 ordinal: 6
 ---
 
-The introduction of immigration checks and upfront charging threatens the founding principles of the NHS, as healthcare workers we have a responsibility to ensure that it remains a safe, non-judgemental, and universally accessible space for anyone that needs to use it.
+The introduction of immigration checks and upfront charging threatens the founding principles of the NHS. As healthcare workers we have a responsibility to ensure that the NHS remains a safe, non-judgemental, and universally accessible space for anyone that needs to use it.
 
-We believe the best way to do this is for healthcare workers and patients work together to demand NHS Trusts fulfil their duty of care, and to force the Government to end charges for the NHS.
+We believe the best way to do this is for healthcare workers and patients to work together to demand NHS Trusts fulfil their duty of care, and to force the Government to end charges for the NHS.
 
-### Raise awareness with your Colleagues
+### Raise awareness with your colleagues
 
 ##### Talk to your colleagues
 
@@ -16,7 +16,7 @@ Many healthcare workers don't know about the policy - make sure they do! You can
 
 ##### Talk about the policy at a meeting
 
-There are lots of opportunities to do this, whether at a grand round, in training or even at handover. You could also present a case specific to your department at audit, clinical governance or morbidity and mortality meetings to discuss actual or potential harm relating to these regulations. Use our [resources](/campaign/resources.html) and power-point presentations.
+There are lots of opportunities to do this, whether at a Grand Round, in training or even at handover. You could also present a case specific to your department at audit, clinical governance, or morbidity and mortality meetings to discuss actual or potential harm relating to these regulations. Use our [resources](/campaign/resources.html) and presentations.
 
 ##### Raising concerns with management
 
@@ -28,17 +28,17 @@ In offices, staff rooms, patient waiting areas, or anywhere that people will see
 
 ### Present at a Grand Round
 
-Deliver a Grand Round examining the policy and charging regulations in detail. Everything you need to do this, from [key arguments](/learn/key-arguments.html) to power-point presentations are on our [resources page](/campaign/resources.html).
+Deliver a Grand Round examining the policy and charging regulations in detail. Everything you need to do this, from [key arguments](/learn/key-arguments.html) to powerpoint presentations are on our [resources page](/campaign/resources.html).
 
 Present a case you have encountered at a Schwartz Round to discuss the emotional and social impact on you and your colleagues.
 
-Present a case specific to your department at audit, clinical governance or morbidity and mortality meetings to discuss actual or potential harm relating to these regulations.
+Present a case specific to your department at audit, clinical governance, or morbidity and mortality meetings to discuss actual or potential harm relating to these regulations.
 
 If you'd like support with something specific then [contact us](#contact-details).
 
 ### Raise the issue with your union
 
-Unions are a powerful voice in the workplace and we should encourage them to speak out on the things that effect how we work.
+Unions are a powerful voice in the workplace and we should encourage them to speak out on the things that affect how we work.
 
 ##### Discuss the policy in your union meeting
 
