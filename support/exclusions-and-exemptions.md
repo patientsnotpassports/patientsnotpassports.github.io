@@ -4,7 +4,7 @@ layout: page
 ordinal: 3
 ---
 
-This list of exemptions has been taken from Government Guidance on charging which can be found here and a simplified version on the NHS Choices site.
+This list of exemptions has been taken from [Government Guidance on charging](https://www.gov.uk/government/collections/nhs-visitor-and-migrant-cost-recovery-programme) and a simplified version on [NHS Choices](https://www.nhs.uk/using-the-nhs/nhs-services/visiting-or-moving-to-england/visitors-who-do-not-need-pay-for-nhs-treatment/).
 
 ### Where does charging occur?
 
