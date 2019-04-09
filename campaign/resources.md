@@ -4,6 +4,8 @@ layout: page
 ordinal: 7
 ---
 
+If you need any rescource that you cant see here just email <a href="mailto:jamesskinner@medact.org">jamesskinner@medact.org</a> and we can help create it. 
+
 ### Presentations 
 
 * <a href="https://drive.google.com/open?id=1x2v5fu2JMIW7nK45zxMVzn-bErI033IY">General charging & How to Campaign</a>
@@ -28,4 +30,3 @@ ordinal: 7
 Please contact <a href="mailto:jamesskinner@medact.org">jamesskinner@medact.org</a> to find out material will best suit your needs.
 
 
-If you need any rescource that you cant see here just email <a href="mailto:jamesskinner@medact.org">jamesskinner@medact.org</a> and we can help create it. 
