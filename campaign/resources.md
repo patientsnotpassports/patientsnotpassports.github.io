@@ -9,14 +9,14 @@ If you need any rescource that you cant see here just email <a href="mailto:jame
 ### Presentations 
 
 * <a href="https://drive.google.com/open?id=1x2v5fu2JMIW7nK45zxMVzn-bErI033IY">General charging & How to Campaign</a>
-* Coming Soon... 
+* _Coming Soon..._ 
   * Grand Round 
   * Pictures folder to make your own 
 
 ### Briefings and Model Motions 
 
 * Medact Briefing on charging 
-* Coming Soon... 
+* _Coming Soon..._ 
   * Union Motion 
   * Breifing for your MP 
 
