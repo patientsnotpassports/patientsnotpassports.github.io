@@ -12,7 +12,6 @@ Raise awareness of the charging policies and their discriminatory nature.
 
  * Follow **Docs Not Cops**, **Doctors of the World**, **Medact** and other organisations on Twitter and Facebook, share and retweet our posts - have a look at the [signposting guide](/support/signposting-guide.html) for groups campaigning on charging.
  * Share local stories over social media
- * Use any or all of the sample tweets below, tweet at local and national politicians, NHS managers and other campaign groups to bring them into the conversation.
 
 ### Raise the issue with other local campaign groups and progressive parties and unions
 
