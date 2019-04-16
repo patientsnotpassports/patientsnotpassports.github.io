@@ -20,7 +20,7 @@ If you need any rescource that you cant see here just email <a href="mailto:jame
 
 ### Briefings and Model Motions 
 
-* <a href="https://www.medact.org/2019/resources/reports/patients-not-passports-briefing/">Patients Not Passports: Challenging healthcare charging in the NHS</a>
+* <a href="https://www.medact.org/2019/resources/briefings/patients-not-passports/">Patients Not Passports: Challenging healthcare charging in the NHS</a>
 * _Coming Soon..._ 
   * Union Motion 
   * Breifing for your MP 
