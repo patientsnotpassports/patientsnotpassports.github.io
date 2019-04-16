@@ -20,9 +20,9 @@ Provide advice, support, and a welcome meeting place for vulnerable migrants and
 
 A not-for-profit advocacy organisation which provides legal support and representation to asylum seekers and other undocumented migrants in the West Midlands.
 
-##### [Maternity Action](https://www.maternityaction.org.uk/){:target="_blank"}
+##### [Maternity Action](https://www.maternityaction.org.uk/advice-2/maternity-care-access-advice-service/){:target="_blank"}
 
-Provide advice and support for pregnant women, fathers-to-be, and new mothers or fathers. They provide information about entitlement to maternity services, rights at work, and support for healthcare workers.
+Maternity Action provides free, confidential phone and email advice to help women get the maternity care they need, and to help women to understand and challenge charges for NHS car. They provide advice to women, their friends and family, midwives, other health professionals, advice workers and community workers.
 
 ##### [Bristol Refugee Rights](https://www.bristolrefugeerights.org/){:target="_blank"}
 
